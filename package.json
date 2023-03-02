@@ -1,0 +1,22 @@
+{
+  "name": "reacthomework1",
+  "version": "1.0.0",
+  "description": "Patika.dev Homework 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizayilmaz98/reactHomework1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizayilmaz98/reactHomework1/issues"
+  },
+  "homepage": "https://github.com/rizayilmaz98/reactHomework1#readme",
+  "type": "module"
+}
