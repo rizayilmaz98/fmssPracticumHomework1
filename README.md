@@ -1,2 +1,3 @@
-# reactHomework1
-Patika.dev Homework 1 
+# FMSS Practicum Homework-1
+
+![](./homework1.png)
